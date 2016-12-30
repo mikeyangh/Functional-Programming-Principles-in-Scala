@@ -1,0 +1,401 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+32 items
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/common/package$.class
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/common/package.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetData$.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetData.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$toTweetSet$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$unparseToData$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweetData$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweets$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Cons.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Empty.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Main$$anonfun$1.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Main$.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Main$delayedInit$body.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Main.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Nil$.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Nil.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/NonEmpty.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Tweet.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetList$class.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetList.class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetSet.class
+binary dependencies:
+8 items
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> /Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/YCG/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> /Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> /Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+32 items
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> common.package
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> common.package$
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> objsets.TweetData
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> objsets.TweetData$
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$$anonfun$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$$anonfun$toTweetSet$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$$anonfun$unparseToData$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$ParseTweets$
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$ParseTweets$$anonfun$getTweetData$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> objsets.TweetReader$ParseTweets$$anonfun$getTweets$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Cons
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Empty
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$appleTweets$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$googleTweets$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main$
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main$$anonfun$1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Main$delayedInit$body
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Nil
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Nil$
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.NonEmpty
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.Tweet
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.TweetList
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.TweetList$class
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets.TweetSet
+used names:
+205 items
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> ::
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> <init>
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> <repeated>
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> Any
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> AnyRef
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> File
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> FileInputStream
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> InputStream
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> List
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> None
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> Nothing
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> Option
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> Predef
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> String
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> _root_
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> child
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> children
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> classesDir
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> common
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> exists
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> file
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> foldLeft
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> getClass
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> getParentFile
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> getResource
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> io
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> java
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> package
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> projectDir
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> resourceFile
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> resourcePath
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> scala
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> subFile
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> toURI
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> <init>
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> AnyRef
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> CNET
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> TechCrunch
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> TweetData
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> amazondeals
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> engadget
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> gadgetlab
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> gizmodo
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> mashable
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> objsets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> scala
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> +
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> ++
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> ->
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> <init>
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> Any
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> AnyRef
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> CNET
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> Empty
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> JSON
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> List
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> Map
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> ParseTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> Predef
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> Seq
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> String
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> StringBuffer
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> T
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> TechCrunch
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> Tweet
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> TweetData
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> TweetReader
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> TweetSet
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> acc
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> allTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> amazondeals
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> amazondealsTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> append
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> apply
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> asInstanceOf
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> augmentString
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> buf
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> canBuildFrom
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> cnetTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> collection
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> curSets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> engadget
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> engadgetTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> foldLeft
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> foreach
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> gadgetlab
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> gadgetlabTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> get
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> getList
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> getTweetData
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> gizmodo
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> gizmodoTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> head
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> immutable
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> incl
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> isEmpty
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> java
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> json
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> l
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> lang
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> map
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> mashable
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> mashableTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> objsets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> package
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> parseFull
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> parsing
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> replaceAll
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> retweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> s
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> scala
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> siteTweetSetMap
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> sites
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> sources
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> tail
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> techCrunchTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> text
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> toDouble
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> toInt
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> toString
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> toTweetSet
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> tw
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> tweetMap
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> tweetSets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> tweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> tws
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> union
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> unionOfAllTweetSets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> user
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> util
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> zip
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> &&
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> +
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> <
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> <init>
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> >
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> AnyRef
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> App
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Boolean
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Cons
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Empty
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Function1
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> GoogleVsApple
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Int
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> List
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Main
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Nil
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> NoSuchElementException
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> NonEmpty
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Predef
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> String
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Tweet
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> TweetList
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> TweetReader
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> TweetSet
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> Unit
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> _root_
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> acc
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> allTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> apple
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> appleTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> apply
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> augmentString
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> children
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> contains
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> descendingByRetweet
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> elem
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> exists
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> f
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> filter
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> filterAcc
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> foreach
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> google
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> googleTweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> head
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> immutable
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> incl
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> isEmpty
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> java
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> keyword
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> left
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> leftMostRetweeted
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> mostRetweeted
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> mostRetweetedTweet
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> objsets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> p
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> package
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> println
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> remain
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> remove
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> retweets
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> right
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> rightMostRetweeted
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> scala
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> tail
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> text
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> that
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> trending
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> tw
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> tweet
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> unary_!
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> union
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> user
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> util
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> x
+product stamps:
+32 items
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/common/package$.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/common/package.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Cons.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Empty.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1$$anonfun$apply$2.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$appleTweets$1.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1$$anonfun$apply$1.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$$anonfun$googleTweets$1.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple$.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/GoogleVsApple.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Main$$anonfun$1.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Main$.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Main$delayedInit$body.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Main.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Nil$.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Nil.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/NonEmpty.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/Tweet.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetData$.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetData.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetList$class.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetList.class -> lastModified(1482811219000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$1.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$toTweetSet$1.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$$anonfun$unparseToData$1.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweetData$1.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$$anonfun$getTweets$1.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader$ParseTweets$.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetReader.class -> lastModified(1482808664000)
+/Coding/Coursera/scala/objsets/target/scala-2.11/classes/objsets/TweetSet.class -> lastModified(1482811219000)
+source stamps:
+4 items
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> hash(777a27a2b5ac36c3e19a8721c5c885e397664dff)
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> hash(9bf9247ca2ed3966a673cef172ec6c484aa0660b)
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> hash(ad5310f59261cc1c3418813907f3bdd555db64c7)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/YCG/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar -> lastModified(1430402820000)
+/Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617791000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/YCG/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar -> scala.util.parsing.json.JSON$
+/Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.App
+internal apis:
+4 items
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZPkiQa3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADgvQ29kaW5nL0NvdXJzZXJhL3NjYWxhL29ianNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC1Qr77AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAG3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFfWSdB0AAZub3RpZnlzcQB+AAxDiLdYdAALYW1hem9uZGVhbHNzcQB+AAzB9PrkdAAEQ05FVHNxAH4ADLiSGK90AAdnaXptb2Rvc3EAfgAMzn6MUnQABHdhaXRzcQB+AAzseQ0+dAANJGFzSW5zdGFuY2VPZnNxAH4ADCy4dJx0AAhtYXNoYWJsZXNxAH4ADMOOFm10AAlnYWRnZXRsYWJzcQB+AAylZ+ZKdAAGZXF1YWxzc3EAfgAMqzntPHQADGFzSW5zdGFuY2VPZnNxAH4ADNqr67R0AAxzeW5jaHJvbml6ZWRzcQB+AAykTZNkdAAIZW5nYWRnZXRzcQB+AAwJADQtdAAJVHdlZXREYXRhc3EAfgAMkoKre3QADSRpc0luc3RhbmNlT2ZzcQB+AAxcoKwSdAAJbm90aWZ5QWxsc3EAfgAMMH7aiHQADGlzSW5zdGFuY2VPZnNxAH4ADJr9+gJ0AAI9PXNxAH4ADObl6Vp0AAVjbG9uZXNxAH4ADBhTlBB0AAh0b1N0cmluZ3NxAH4ADG03mBV0AAIhPXNxAH4ADH+KJ2B0AAhnZXRDbGFzc3NxAH4ADJ0Sd7l0AAJuZXNxAH4ADBeOk5l0AApUZWNoQ3J1bmNoc3EAfgAMruG0jXQAAmVxc3EAfgAMKpb2rnQAAiMjc3EAfgAMNYI0onQACGZpbmFsaXplc3EAfgAMfKC1I3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ATXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAEW9ianNldHMuVHdlZXREYXRhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AZnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AZQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ATUwACWluaGVyaXRlZHEAfgBNTAAHcGFyZW50c3EAfgBNeHEAfgBuc3EAfgBlAXVxAH4ASAAAAABwc3EAfgBlAXVxAH4ASAAAAABwc3EAfgBlAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AbXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AbXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ah3NxAH4AenQAA0FueXNxAH4AfnNxAH4AgXVxAH4AhAAAAAJzcQB+AIZ0AAVzY2FsYXEAfgCNcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdvYmpzZXRzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZPkiQa3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADgvQ29kaW5nL0NvdXJzZXJhL3NjYWxhL29ianNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHd6J6K1rDbD4ZqHIcXIheOXZk3/
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDKEHlhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLAN1Q10AAZub3RpZnlzcQB+AAyh2lTydAAOZW5nYWRnZXRUd2VldHNzcQB+AAzjNNa8dAAEd2FpdHNxAH4ADHGaEGR0AA5tYXNoYWJsZVR3ZWV0c3NxAH4ADImefJV0AAtUd2VldFJlYWRlcnNxAH4ADEVODmp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMRxJaiHQAC1BhcnNlVHdlZXRzc3EAfgAMSmWTZXQABmVxdWFsc3NxAH4ADJeVB810AA9zaXRlVHdlZXRTZXRNYXBzcQB+AAyNWvY8dAAMYXNJbnN0YW5jZU9mc3EAfgAMQlXjRHQADHN5bmNocm9uaXplZHNxAH4ADEaH4PR0AAlnZXRUd2VldHNzcQB+AAwBA3MxdAAIdHdlZXRNYXBzcQB+AAx5+L46dAANJGlzSW5zdGFuY2VPZnNxAH4ADIpz2FZ0AAZnZXRNYXBzcQB+AAyYrgZKdAAJbm90aWZ5QWxsc3EAfgAMzFbU4nQADGlzSW5zdGFuY2VPZnNxAH4ADG4QsW90AApjbmV0VHdlZXRzc3EAfgAMQFdUgXQAEWFtYXpvbmRlYWxzVHdlZXRzc3EAfgAMoMTwynQACWFsbFR3ZWV0c3NxAH4ADGCYff10AA1naXptb2RvVHdlZXRzc3EAfgAMpqRmTnQAE3VuaW9uT2ZBbGxUd2VldFNldHNzcQB+AAxB4X4GdAAMZ2V0VHdlZXREYXRhc3EAfgAMAtj9fnQAEHRlY2hDcnVuY2hUd2VldHNzcQB+AAzHSBH4dAAKdG9Ud2VldFNldHNxAH4ADHRWEdt0AAI9PXNxAH4ADIwYmQ50AAVjbG9uZXNxAH4ADJagiBN0AA9nYWRnZXRsYWJUd2VldHNzcQB+AAwO6asOdAAHZ2V0TGlzdHNxAH4ADNgbJYx0AAh0b1N0cmluZ3NxAH4ADG7Cz550AAIhPXNxAH4ADLxvlIN0AAhnZXRDbGFzc3NxAH4ADHdFviR0AAVzaXRlc3NxAH4ADOd8YE50AA11bnBhcnNlVG9EYXRhc3EAfgAMOd2ktnQAAm5lc3EAfgAMth2denQACXR3ZWV0U2V0c3NxAH4ADMCSZCB0AAdzb3VyY2Vzc3EAfgAMx43nuXQAAmVxc3EAfgAM6Z7953QAAiMjc3EAfgAMMPxcDHQACGZpbmFsaXplc3EAfgAMjTtKz3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AaXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAE29ianNldHMuVHdlZXRSZWFkZXJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCCeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCBAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIpzcQB+AIEBdXEAfgBkAAAAAHBzcQB+AIEBdXEAfgBkAAAAAHBzcQB+AIEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCJdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCJc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCidAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCjc3EAfgCWdAADQW55c3EAfgCac3EAfgCddXEAfgCgAAAAAnNxAH4AonQABXNjYWxhcQB+AKlwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB29ianNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVk+SJBrdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9Db2RpbmcvQ291cnNlcmEvc2NhbGEvb2Jqc2V0cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUm/kkfKLtOWamc87xcuxsSEqgZgs=
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDW2g4tAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLx/qil0AAZub3RpZnlzcQB+AAxwrTWydAATZGVzY2VuZGluZ0J5UmV0d2VldHNxAH4ADJtqU8J0AA1Hb29nbGVWc0FwcGxlc3EAfgAMAhW3TnQAA05pbHNxAH4ADP7foLx0AAR3YWl0c3EAfgAM3TYaR3QADSRhc0luc3RhbmNlT2ZzcQB+AAy3q8Z1dAAFdW5pb25zcQB+AAxwO/eIdAAGZXF1YWxzc3EAfgAMSDEsOHQACWZpbHRlckFjY3NxAH4ADP+1vuV0AARoZWFkc3EAfgAMUmbxFnQADGFzSW5zdGFuY2VPZnNxAH4ADJXhXgp0AA5leGVjdXRpb25TdGFydHNxAH4ADJRhj0l0AARpbmNsc3EAfgAM95JIe3QADHN5bmNocm9uaXplZHNxAH4ADE9BTRh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMxv+4cnQACVR3ZWV0TGlzdHNxAH4ADKE9Xfp0AAZnb29nbGVzcQB+AAxY5fPqdAAEdGV4dHNxAH4ADEyHjAF0AA1tb3N0UmV0d2VldGVkc3EAfgAMCSiCQnQABHRhaWxzcQB+AAw5oVZ9dAAEbWFpbnNxAH4ADN/sMbl0AAhyZXR3ZWV0c3NxAH4ADDmSWpx0AARDb25zc3EAfgAM6EI1+3QACW5vdGlmeUFsbHNxAH4ADDLkeXN0AAxpc0luc3RhbmNlT2ZzcQB+AAwKPLdCdAAGZmlsdGVyc3EAfgAMkB0JnnQABjxpbml0PnNxAH4ADG367Sl0AAZyZW1vdmVzcQB+AAystxCpdAAFRW1wdHlzcQB+AAxOokVGdAACPT1zcQB+AAwIbdK/dAAFY2xvbmVzcQB+AAxN+AzsdAAHZm9yZWFjaHNxAH4ADK41L8F0AAVUd2VldHNxAH4ADJC16lp0AAYkaW5pdCRzcQB+AAyGKutPdAAIVHdlZXRTZXRzcQB+AAx0LWordAAETWFpbnNxAH4ADGndcut0AAh0b1N0cmluZ3NxAH4ADDOwXkR0AARhcmdzc3EAfgAM4MPnPXQABWFwcGxlc3EAfgAMbCkJpXQAAiE9c3EAfgAMjBdzvnQACGdldENsYXNzc3EAfgAMCUBo33QADGdvb2dsZVR3ZWV0c3NxAH4ADLWi3bJ0AAhjb250YWluc3NxAH4ADIivbHl0AAdpc0VtcHR5c3EAfgAMl93tN3QAAm5lc3EAfgAM+/I58XQACHRyZW5kaW5nc3EAfgAMXbIgRnQABHVzZXJzcQB+AAwVG/yqdAACZXFzcQB+AAwtEwyidAAITm9uRW1wdHlzcQB+AAw97bafdAALZGVsYXllZEluaXRzcQB+AAyX9O/DdAACIyNzcQB+AAwFi2BXdAALYXBwbGVUd2VldHNzcQB+AAxyshlPdAAIZmluYWxpemVzcQB+AAzvhi5jdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAJc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANb2Jqc2V0cy5Ud2VldHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCbAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCDTAAJaW5oZXJpdGVkcQB+AINMAAdwYXJlbnRzcQB+AIN4cQB+AKJzcQB+AJsBdXEAfgB+AAAAAHBzcQB+AJsBdXEAfgB+AAAAAHBzcQB+AJsBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgChdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgChc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgC6dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC7c3EAfgCudAADQW55c3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunQABXNjYWxhcQB+AMFwcHNxAH4AgHEAfgCNdXEAfgCOAAAAAHNxAH4AkAF0ABBvYmpzZXRzLlR3ZWV0U2V0dXEAfgCTAAAAAHEAfgCXdXEAfgCZAAAAAHNxAH4AmwFxAH4Ao3BzcQB+AJsBc3EAfgClc3EAfgCbAXVxAH4AfgAAAABwc3EAfgCbAXVxAH4AfgAAAABwc3EAfgCbAXVxAH4ArAAAAAJzcQB+AK5xAH4AsXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AvXNxAH4AunEAfgC/cQB+AMFzcQB+AK5xAH4Aw3NxAH4AsnNxAH4AtXVxAH4AuAAAAAJzcQB+ALpxAH4AyHEAfgDBcHBzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAANb2Jqc2V0cy5FbXB0eXVxAH4AkwAAAABxAH4Al3VxAH4AmQAAAABzcQB+AJsBcQB+AKNwc3EAfgCbAXNxAH4ApXNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AKwAAAADc3EAfgCudAAIVHdlZXRTZXRzcQB+ALJzcQB+ALV1cQB+ALgAAAACc3EAfgC6dAAHb2Jqc2V0c3EAfgDBc3EAfgCucQB+ALFzcQB+ALJzcQB+ALV1cQB+ALgAAAADc3EAfgC6cQB+AL1zcQB+ALpxAH4Av3EAfgDBc3EAfgCucQB+AMNzcQB+ALJzcQB+ALV1cQB+ALgAAAACc3EAfgC6cQB+AMhxAH4AwXBwc3EAfgCAcQB+AI11cQB+AI4AAAAAc3EAfgCQAHQAEG9ianNldHMuTm9uRW1wdHl1cQB+AJMAAAAAcQB+AJd1cQB+AJkAAAAAc3EAfgCbAXEAfgCjcHNxAH4AmwFzcQB+AKVzcQB+AJsBdXEAfgB+AAAAAHBzcQB+AJsBdXEAfgB+AAAAAHBzcQB+AJsBdXEAfgCsAAAAA3NxAH4ArnQACFR3ZWV0U2V0c3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunQAB29ianNldHNxAH4AwXNxAH4ArnEAfgCxc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgC9c3EAfgC6cQB+AL9xAH4AwXNxAH4ArnEAfgDDc3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunEAfgDIcQB+AMFwcHNxAH4AgHEAfgCNdXEAfgCOAAAAAHNxAH4AkAF0ABFvYmpzZXRzLlR3ZWV0TGlzdHVxAH4AkwAAAAB+cQB+AJV0AAVUcmFpdHVxAH4AmQAAAABzcQB+AJsBcQB+AKNwc3EAfgCbAXNxAH4ApXNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AKwAAAACc3EAfgCucQB+ALFzcQB+ALJzcQB+ALV1cQB+ALgAAAADc3EAfgC6cQB+AL1zcQB+ALpxAH4Av3EAfgDBc3EAfgCucQB+AMNzcQB+ALJzcQB+ALV1cQB+ALgAAAACc3EAfgC6cQB+AMhxAH4AwXBwc3EAfgCAcQB+AI11cQB+AI4AAAAAc3EAfgCQAHQAC29ianNldHMuTmlsdXEAfgCTAAAAAH5xAH4AlXQABk1vZHVsZXVxAH4AmQAAAABzcQB+AJsBcQB+AKNwc3EAfgCbAXNxAH4ApXNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AH4AAAAAcHNxAH4AmwF1cQB+AKwAAAADc3EAfgCudAAJVHdlZXRMaXN0c3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunQAB29ianNldHNxAH4AwXNxAH4ArnEAfgCxc3EAfgCyc3EAfgC1dXEAfgC4AAAAA3NxAH4AunEAfgC9c3EAfgC6cQB+AL9xAH4AwXNxAH4ArnEAfgDDc3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunEAfgDIcQB+AMFwcHNxAH4AgHEAfgCNdXEAfgCOAAAAAHNxAH4AkAB0AAxvYmpzZXRzLkNvbnN1cQB+AJMAAAAAcQB+AJd1cQB+AJkAAAAAc3EAfgCbAXEAfgCjcHNxAH4AmwFzcQB+AKVzcQB+AJsBdXEAfgB+AAAAAHBzcQB+AJsBdXEAfgB+AAAAAHBzcQB+AJsBdXEAfgCsAAAAA3NxAH4ArnQACVR3ZWV0TGlzdHNxAH4AsnNxAH4AtXVxAH4AuAAAAAJzcQB+ALp0AAdvYmpzZXRzcQB+AMFzcQB+AK5xAH4AsXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AvXNxAH4AunEAfgC/cQB+AMFzcQB+AK5xAH4Aw3NxAH4AsnNxAH4AtXVxAH4AuAAAAAJzcQB+ALpxAH4AyHEAfgDBcHBzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAAVb2Jqc2V0cy5Hb29nbGVWc0FwcGxldXEAfgCTAAAAAHEAfgFGdXEAfgCZAAAAAHNxAH4AmwFxAH4Ao3BzcQB+AJsBc3EAfgClc3EAfgCbAXVxAH4AfgAAAABwc3EAfgCbAXVxAH4AfgAAAABwc3EAfgCbAXVxAH4ArAAAAAJzcQB+AK5xAH4AsXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AvXNxAH4AunEAfgC/cQB+AMFzcQB+AK5xAH4Aw3NxAH4AsnNxAH4AtXVxAH4AuAAAAAJzcQB+ALpxAH4AyHEAfgDBcHBzcQB+AIBxAH4AjXVxAH4AjgAAAABzcQB+AJAAdAAMb2Jqc2V0cy5NYWludXEAfgCTAAAAAHEAfgFGdXEAfgCZAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AmwFxAH4Ao3BzcQB+AJsBc3EAfgClc3EAfgCbAXVxAH4AfgAAAABwc3EAfgCbAXVxAH4AfgAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AhHEAfgCNdXEAfgCOAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4Br3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcQB+AK50ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NxAH4AsnNxAH4AtXVxAH4AuAAAAAJzcQB+ALpxAH4AyHEAfgDBc3EAfgCQAHEAfgA3dXEAfgCTAAAAAHNxAH4ArnQABFVuaXRxAH4BvnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+Aa94cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AJZ0AAVQbGFpbnEAfgBZc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCvWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgChc3EAfgCudAAFQXJyYXlxAH4BvnVxAH4ArAAAAAFzcQB+AK50AAZTdHJpbmdzcQB+ALJzcQB+ALV1cQB+ALgAAAADc3EAfgC6cQB+AL1zcQB+ALpxAH4Av3EAfgDBcHNxAH4AmwF1cQB+AKwAAAAEc3EAfgCudAADQXBwcQB+Ab5zcQB+AK50AAtEZWxheWVkSW5pdHEAfgG+c3EAfgCucQB+ALFxAH4B23NxAH4ArnEAfgDDcQB+Ab5wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAB29ianNldHNzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVk+b5t+dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOC9Db2RpbmcvQ291cnNlcmEvc2NhbGEvb2Jqc2V0cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUrVMQ9ZJhzBw0GIE5B/O91VXbZMc=
+external apis:
+0 items
+source infos:
+4 items
+/Coding/Coursera/scala/objsets/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetData.scala -> 
+AAAAAAAAAAA=
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetReader.scala -> 
+AAAAAAAAAAA=
+/Coding/Coursera/scala/objsets/src/main/scala/objsets/TweetSet.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWT5IkGt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Db2RpbmcvQ291cnNlcmEvc2NhbGEvb2Jqc2V0cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWT5vm351cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOC9Db2RpbmcvQ291cnNlcmEvc2NhbGEvb2Jqc2V0cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
