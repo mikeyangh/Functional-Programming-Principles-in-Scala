@@ -1,0 +1,32 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set()[0m
+[0m[[0mdebug[0m] [0m	modified: Set(/Coding/Coursera/scala/streams/src/main/scala/streams/StringParserTerrain.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated products: Set(/Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/Solver$$anonfun$neighborsWithHistory$1.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$streams$StringParserTerrain$$vector$1.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/Solver$$anonfun$newNeighborsOnly$1.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/Solver$$anonfun$from$1$$anonfun$apply$1.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/Solver$class.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/StringParserTerrain$class.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$terrainFunction$1.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/StringParserTerrain.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/Solver$$anonfun$pathsToGoal$1.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/Solver.class, /Coding/Coursera/scala/streams/target/scala-2.11/classes/streams/StringParserTerrain$$anonfun$1.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/Coding/Coursera/scala/streams/src/main/scala/streams/StringParserTerrain.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(/Coding/Coursera/scala/streams/src/main/scala/streams/Solver.scala, /Coding/Coursera/scala/streams/src/main/scala/streams/StringParserTerrain.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Coding/Coursera/scala/streams/src/main/scala/streams/Solver.scala, /Coding/Coursera/scala/streams/src/main/scala/streams/StringParserTerrain.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /Coding/Coursera/scala/streams/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.7[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6c9aa18f, interfacing (CompilerInterface) with Scala compiler version 2.11.7[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-deprecation[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/classes:/Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Coding/Coursera/scala/streams/target/scala-2.11/classes:/Users/YCG/.ivy2/cache/org.scalatest/scalatest_2.11/bundles/scalatest_2.11-2.2.4.jar:/Users/YCG/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.2.jar:/Users/YCG/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.2.jar:/Users/YCG/.ivy2/cache/org.scalacheck/scalacheck_2.11/jars/scalacheck_2.11-1.12.1.jar:/Users/YCG/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.2.jar:/Users/YCG/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.707953167 s[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
