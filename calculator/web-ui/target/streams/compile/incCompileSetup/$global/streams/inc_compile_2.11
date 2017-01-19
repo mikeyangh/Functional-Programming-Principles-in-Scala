@@ -1,0 +1,692 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -Xplugin:/Users/YCG/.ivy2/cache/org.scala-js/scalajs-compiler_2.11.6/jars/scalajs-compiler_2.11.6-0.6.2.jar
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+69 items
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/BankAccount$$anonfun$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/BankAccount$$anonfun$deposit$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/BankAccount$$anonfun$withdraw$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/BankAccount.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$2.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Divide$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Divide.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Expr.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Literal$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Literal.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Minus$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Minus.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Plus$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Plus.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Ref$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Ref.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Times$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Times.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeDelta$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal$$anonfun$$lessinit$greater$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$2.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Var$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Var.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$colorForRemainingCharsCount$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$tweetRemainingCharsCount$1.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$.class
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$2$$anonfun$apply$2.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$2.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$3.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$4.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$5.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$6.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$7.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$8.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$9.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$doubleValueOfInput$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$exprOfInput$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$inputValueSignal$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$parseSimple$1$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setup2ndOrderPolynomial$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setup2ndOrderPolynomial$2.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupTweetMeasurer$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupTweetMeasurer$2.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$textAreaValueSignal$1.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$.class
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI.class
+binary dependencies:
+14 items
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> /Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> /Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> /Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> /Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Users/YCG/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/jars/scalajs-dom_sjs0.6_2.11-0.8.0.jar
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Users/YCG/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.2.jar
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+8 items
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> /Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> /Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> /Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> /Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+69 items
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> calculator.BankAccount
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> calculator.BankAccount$$anonfun$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> calculator.BankAccount$$anonfun$deposit$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> calculator.BankAccount$$anonfun$withdraw$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$computeValues$1$$anonfun$apply$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Calculator$$anonfun$getReferenceExpr$2
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Divide
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Divide$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Expr
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Literal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Literal$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Minus
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Minus$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Plus
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Plus$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Ref
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Ref$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Times
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator.Times$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$$anonfun$computeDelta$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> calculator.Polynomial$$anonfun$computeSolutions$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.NoSignal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.NoSignal$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.NoSignal$$anonfun$$lessinit$greater$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$apply$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$computeValue$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.Signal$$anonfun$computeValue$2
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.Var
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator.Var$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$$anonfun$colorForRemainingCharsCount$1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> calculator.TweetLength$$anonfun$tweetRemainingCharsCount$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$2
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$2$$anonfun$apply$2
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$3
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$4
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$5
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$6
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$7
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$8
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$9
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$doubleValueOfInput$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$exprOfInput$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$inputValueSignal$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$parseSimple$1$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setup2ndOrderPolynomial$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setup2ndOrderPolynomial$2
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupTweetMeasurer$1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$setupTweetMeasurer$2
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator.CalculatorUI$$anonfun$textAreaValueSignal$1
+used names:
+347 items
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> &&
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> +
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> -
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> <
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> <=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> <init>
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> >
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> AnyRef
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> BankAccount
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> Error
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> Int
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> Unit
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> Var
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> amount
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> apply
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> b
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> balance
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> calculator
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> package
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> scala
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> update
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> &&
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> *
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> +
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> -
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> ->
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> /
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> <init>
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> ==
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> AbstractFunction1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> AbstractFunction2
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> AnyRef
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Calculator
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Divide
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Double
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Expr
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Literal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Map
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Minus
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> None
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Plus
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Predef
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Product
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Ref
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> ScalaRunTime
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Serializable
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Signal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Statics
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> String
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> Times
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> _1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> _2
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> _hashCode
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> _toString
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> a
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> apply
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> asInstanceOf
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> b
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> calculator
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> canBuildFrom
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> doubleHash
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> eq
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> eval
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> expr
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> exprSignal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> finalizeHash
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> fold
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> get
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> getReferenceExpr
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> immutable
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> isInstanceOf
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> map
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> mix
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> name
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> namedExpressions
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> references
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> runtime
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> scala
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> toString
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> typedProductIterator
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> v
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> x
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> ||
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> *
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> +
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> -
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> /
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> <
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> <init>
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> ==
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> AnyRef
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> Double
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> Polynomial
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> Predef
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> Set
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> Signal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> a
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> apply
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> b
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> c
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> calculator
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> delta
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> math
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> package
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> r1
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> r2
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> scala
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> sqrt
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> unary_-
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> +
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> -
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> ::
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> <byname>
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> <init>
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> ???
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> AnyRef
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> DynamicVariable
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> Function0
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> List
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> Nil
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> NoSignal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> Nothing
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> Predef
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> Set
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> Signal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> T
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> Unit
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> Var
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> _root_
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> apply
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> assert
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> calculator
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> caller
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> computeValue
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> contains
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> expr
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> foreach
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> immutable
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> myExpr
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> myExpr_=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> myValue
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> myValue_=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> newValue
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> obs
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> observed
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> observed_=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> observers
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> observers_=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> package
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> scala
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> sig
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> unary_!
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> update
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> util
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> value
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> withValue
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> -
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> <init>
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> >=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> AnyRef
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> Character
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> Int
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> Predef
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> Signal
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> String
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> TweetLength
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> apply
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> augmentString
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> calculator
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> count
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> fallbackStringCanBuildFrom
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> init
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> isEmpty
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> isSurrogatePair
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> java
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> lang
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> length
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> remainingCharsCount
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> scala
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> tail
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> text
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> tupled
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> tweetLength
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> tweetText
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> wrapString
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> zip
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> !=
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> $conforms
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> &&
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> +
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> <=
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> <init>
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ==
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> >=
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> A
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Any
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Array
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Calculator
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> CalculatorUI
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ClassTag
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ClearCssClassRegExp
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Double
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Element
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Event
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Expr
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Function0
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> IllegalArgumentException
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> IndexedSeq
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Input
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> JSApp
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> JSStringOps
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> List
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> None
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> NumberFormatException
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Option
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Polynomial
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Predef
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> RegExp
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> SetTimeoutHandle
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Signal
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Span
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> String
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> StringContext
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> TextArea
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Throwable
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> TweetLength
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Unit
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> Var
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> _1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> _2
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> _3
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> _root_
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> a
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> aText
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> addEventListener
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> apply
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> asInstanceOf
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> assert
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> augmentString
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> b
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> bText
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> backgroundColor_=
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> c
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> calculator
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> canBuildFrom
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> className
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> className_=
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> clearTimeout
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> color
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> colorForRemainingCharsCount
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> color_=
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> computeDelta
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> computeSolutions
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> computeValues
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> dehighlightTimeout
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> delta
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> deltaArea
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> document
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> dom
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> doubleValueOfInput
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> doubleValues
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> element
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> elementById
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> elementValueSignal
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> enableJSStringOps
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> exprOfInput
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> exprs
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> filter
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> forall
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> foreach
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> fromFunction1
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> get
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> getElementById
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> getValue
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> html
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> i
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> id
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ids
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> immutable
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> input
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> inputValueSignal
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> inputs
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> intWrapper
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> isEmpty
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> js
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> jsReplace
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> keySet
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> l
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> lengthCompare
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> map
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> materializeClassTag
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> name
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> namedExpressions
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> namedValues
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> names
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> ne
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> newVal
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> onChange
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> op
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> org
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> package
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> parent
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> parentElement
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> parseExpr
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> parseSimple
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> prevVal
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> printStackTrace
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> raw
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> refArrayOps
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> remainingCharsArea
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> remainingCount
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> s
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> scala
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> scalajs
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> setTimeout
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> setup2ndOrderPolynomial
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> setupCalculator
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> setupTweetMeasurer
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> solutions
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> solutionsArea
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> span
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> split
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> style
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> text
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> textArea
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> textAreaID
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> textAreaValueSignal
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> textContent_=
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> th
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> timers
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> toChar
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> toDouble
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> toMap
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> toString
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> trim
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> tweetRemainingCharsCount
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> tweetText
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> unapplySeq
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> unary_!
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> unchecked
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> until
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> update
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> value
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> valueSignal
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> withFilter
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> x
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> zip
+product stamps:
+69 items
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/BankAccount$$anonfun$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/BankAccount$$anonfun$deposit$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/BankAccount$$anonfun$withdraw$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/BankAccount.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1$$anonfun$apply$1.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$computeValues$1.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$1.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$$anonfun$getReferenceExpr$2.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator$.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Calculator.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$2$$anonfun$apply$2.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$2.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$3.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$4.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$5.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$6.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$7.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$8.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$9.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$doubleValueOfInput$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$exprOfInput$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$inputValueSignal$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$parseSimple$1$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setup2ndOrderPolynomial$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setup2ndOrderPolynomial$2.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1$$anonfun$apply$mcV$sp$2.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2$$anonfun$apply$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupCalculator$2.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupTweetMeasurer$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$setupTweetMeasurer$2.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$$anonfun$textAreaValueSignal$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI$.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/CalculatorUI.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Divide$.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Divide.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Expr.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Literal$.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Literal.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Minus$.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Minus.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal$$anonfun$$lessinit$greater$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal$.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/NoSignal.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Plus$.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Plus.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeDelta$1.class -> lastModified(1484795788000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$$anonfun$computeSolutions$1.class -> lastModified(1484795788000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial$.class -> lastModified(1484795788000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Polynomial.class -> lastModified(1484795788000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Ref$.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Ref.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$apply$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$1.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$$anonfun$computeValue$2.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal$.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Signal.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Times$.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Times.class -> lastModified(1484799503000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$calculator$TweetLength$$tweetLength$1.class -> lastModified(1484795060000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$colorForRemainingCharsCount$1.class -> lastModified(1484795060000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$$anonfun$tweetRemainingCharsCount$1.class -> lastModified(1484795060000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength$.class -> lastModified(1484795060000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/TweetLength.class -> lastModified(1484795060000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Var$.class -> lastModified(1484793702000)
+/Coding/Coursera/scala/calculator/web-ui/target/scala-2.11/classes/calculator/Var.class -> lastModified(1484793702000)
+source stamps:
+6 items
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> hash(3e788e1fde216663f4bbdff3ffff4fbb0c016918)
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> hash(4782540c72b19e6e87708e99a48ba5aa602e74a1)
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> hash(234524c9948a965a78bacbadf550e4432c2e4ccd)
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> hash(f5a6296731e63462e7bc526b412634843c732002)
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> hash(42b6c4ea7c93a5563acc9fcc5c25c10bd14ea2b9)
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> hash(5283065eab3ad32c108798e2226fd8103e0a21c6)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/YCG/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/jars/scalajs-dom_sjs0.6_2.11-0.8.0.jar -> lastModified(1422870960000)
+/Users/YCG/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.2.jar -> lastModified(1426583940000)
+/Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912460000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/YCG/.ivy2/cache/org.scala-js/scalajs-dom_sjs0.6_2.11/jars/scalajs-dom_sjs0.6_2.11-0.8.0.jar -> org.scalajs.dom.package$
+/Users/YCG/.ivy2/cache/org.scala-js/scalajs-library_2.11/jars/scalajs-library_2.11-0.6.2.jar -> scala.scalajs.js.JSApp
+/Users/YCG/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Product
+internal apis:
+6 items
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA6pNYhAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cM6bH2V0AAZub3RpZnlzcQB+AAxzzbCxdAALQmFua0FjY291bnRzcQB+AAwsu1F+dAAEd2FpdHNxAH4ADMPbBlJ0AA0kYXNJbnN0YW5jZU9mc3EAfgAM2HaeEXQABmVxdWFsc3NxAH4ADJM8MyZ0AAxhc0luc3RhbmNlT2ZzcQB+AAxeoSdXdAAMc3luY2hyb25pemVkc3EAfgAMlqtkTnQADSRpc0luc3RhbmNlT2ZzcQB+AAxJtCDTdAAHYmFsYW5jZXNxAH4ADDeD2uJ0AAlub3RpZnlBbGxzcQB+AAwS0mbxdAAMaXNJbnN0YW5jZU9mc3EAfgAMDj3eBHQABjxpbml0PnNxAH4ADCsq5pt0AAh3aXRoZHJhd3NxAH4ADO96yA10AAI9PXNxAH4ADHnIIlJ0AAVjbG9uZXNxAH4ADCYLVCh0AAh0b1N0cmluZ3NxAH4ADPpMnct0AAIhPXNxAH4ADDU9QB90AAhnZXRDbGFzc3NxAH4ADO1vOwV0AAdkZXBvc2l0c3EAfgAMGRS7enQAAm5lc3EAfgAMNQtGtXQAAmVxc3EAfgAMCAfS2XQAAiMjc3EAfgAM5/vGynQACGZpbmFsaXplc3EAfgAMRoyzBHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFmNhbGN1bGF0b3IuQmFua0FjY291bnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSZv6h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCL0NvZGluZy9Db3Vyc2VyYS9zY2FsYS9jYWxjdWxhdG9yL3dlYi11aS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPniOH94hZmP0u9/z//9PuwwBaRg=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDXmUDVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLZ2ElR0AA1jb21wdXRlVmFsdWVzc3EAfgAMOU4zbHQABm5vdGlmeXNxAH4ADBtJ0QJ0AARuYW1lc3EAfgAMtgS3dnQABHdhaXRzcQB+AAyknsqEdAAOY29weSRkZWZhdWx0JDJzcQB+AAyo0Gq8dAANJGFzSW5zdGFuY2VPZnNxAH4ADHA4H8N0AAxwcm9kdWN0QXJpdHlzcQB+AAzas7drdAAGZXF1YWxzc3EAfgAMvUyfn3QADGFzSW5zdGFuY2VPZnNxAH4ADBfuOBd0AARFeHByc3EAfgAM7UPdenQABkRpdmlkZXNxAH4ADEVs9BN0AAxzeW5jaHJvbml6ZWRzcQB+AAzT/0BzdAABYXNxAH4ADJnIAVp0AA0kaXNJbnN0YW5jZU9mc3EAfgAMJvJ72XQAB0xpdGVyYWxzcQB+AAzHPbQ7dAAIY2FuRXF1YWxzcQB+AAzZusIGdAANcHJvZHVjdFByZWZpeHNxAH4ADIWuK7B0AAlub3RpZnlBbGxzcQB+AAxOfpeddAAEUGx1c3NxAH4ADOeNDyp0AAxpc0luc3RhbmNlT2ZzcQB+AAzWsyLfdAAEZXZhbHNxAH4ADHkIfsN0AAVNaW51c3NxAH4ADCWCcJB0AAF2c3EAfgAM+VF4ynQABjxpbml0PnNxAH4ADPkCh8Z0AAFic3EAfgAMERdYK3QAAj09c3EAfgAMQgLe23QABWNsb25lc3EAfgAM3Xx/2XQAEGdldFJlZmVyZW5jZUV4cHJzcQB+AAxINSqldAAEY29weXNxAH4ADH7jdjl0AAh0b1N0cmluZ3NxAH4ADGH+8UV0AAIhPXNxAH4ADPI4LSt0AAVUaW1lc3NxAH4ADCSmfld0AAhnZXRDbGFzc3NxAH4ADNm8C9R0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADCFQS+N0AAJuZXNxAH4ADKRoYRF0AAJlcXNxAH4ADA7/EJ10AApDYWxjdWxhdG9yc3EAfgAMev96ZHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADN59SpJ0AAIjI3NxAH4ADH33r1l0AAhmaW5hbGl6ZXNxAH4ADOUfyLN0AANSZWZzcQB+AAxzV2UOdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAxwrCDddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAIc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAJdAAPY2FsY3VsYXRvci5FeHBydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AIUBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AG1MAAlpbmhlcml0ZWRxAH4AbUwAB3BhcmVudHNxAH4AbXhxAH4AjHNxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIt0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AItzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AKR0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKVzcQB+AJh0AANBbnlzcQB+AJxzcQB+AJ91cQB+AKIAAAACc3EAfgCkdAAFc2NhbGFxAH4Aq3Bwc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6BHQAEmNhbGN1bGF0b3IuTGl0ZXJhbHVxAH4AfQAAAABxAH4AgXVxAH4AgwAAAABzcQB+AIUBcQB+AI1wc3EAfgCFAXNxAH4Aj3NxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cQB+AJYAAAAHc3EAfgCYdAAMU2VyaWFsaXphYmxlc3EAfgCcc3EAfgCfdXEAfgCiAAAAAnNxAH4ApHEAfgCycQB+AKtzcQB+AJhxAH4Aw3NxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKRxAH4Ap3NxAH4ApHQAAmlvcQB+AKtzcQB+AJh0AAdQcm9kdWN0cQB+AMRzcQB+AJh0AAZFcXVhbHNxAH4AxHNxAH4AmHQABEV4cHJzcQB+AJxzcQB+AJ91cQB+AKIAAAACc3EAfgCkdAAKY2FsY3VsYXRvcnEAfgCrc3EAfgCYcQB+AJtzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkcQB+AKdzcQB+AKRxAH4AqXEAfgCrc3EAfgCYcQB+AK1xAH4AxHBwc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6BHQADmNhbGN1bGF0b3IuUmVmdXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhQFxAH4AjXBzcQB+AIUBc3EAfgCPc3EAfgCFAXVxAH4AaAAAAABwc3EAfgCFAXVxAH4AaAAAAABwc3EAfgCFAXVxAH4AlgAAAAdzcQB+AJhxAH4Aw3NxAH4AnHNxAH4An3VxAH4AogAAAAJzcQB+AKRxAH4AsnEAfgCrc3EAfgCYcQB+AMNzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkcQB+AKdzcQB+AKR0AAJpb3EAfgCrc3EAfgCYcQB+ANBxAH4A8XNxAH4AmHQABkVxdWFsc3EAfgDxc3EAfgCYcQB+ANRzcQB+AJxzcQB+AJ91cQB+AKIAAAACc3EAfgCkdAAKY2FsY3VsYXRvcnEAfgCrc3EAfgCYcQB+AJtzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkcQB+AKdzcQB+AKRxAH4AqXEAfgCrc3EAfgCYcQB+AK1xAH4A8XBwc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6BHQAD2NhbGN1bGF0b3IuUGx1c3VxAH4AfQAAAABxAH4AgXVxAH4AgwAAAABzcQB+AIUBcQB+AI1wc3EAfgCFAXNxAH4Aj3NxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cQB+AJYAAAAHc3EAfgCYcQB+AMNzcQB+AJxzcQB+AJ91cQB+AKIAAAACc3EAfgCkcQB+ALJxAH4Aq3NxAH4AmHEAfgDDc3EAfgCcc3EAfgCfdXEAfgCiAAAAA3NxAH4ApHEAfgCnc3EAfgCkdAACaW9xAH4Aq3NxAH4AmHEAfgDQcQB+ARxzcQB+AJh0AAZFcXVhbHNxAH4BHHNxAH4AmHEAfgDUc3EAfgCcc3EAfgCfdXEAfgCiAAAAAnNxAH4ApHQACmNhbGN1bGF0b3JxAH4Aq3NxAH4AmHEAfgCbc3EAfgCcc3EAfgCfdXEAfgCiAAAAA3NxAH4ApHEAfgCnc3EAfgCkcQB+AKlxAH4Aq3NxAH4AmHEAfgCtcQB+ARxwcHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegR0ABBjYWxjdWxhdG9yLk1pbnVzdXEAfgB9AAAAAHEAfgCBdXEAfgCDAAAAAHNxAH4AhQFxAH4AjXBzcQB+AIUBc3EAfgCPc3EAfgCFAXVxAH4AaAAAAABwc3EAfgCFAXVxAH4AaAAAAABwc3EAfgCFAXVxAH4AlgAAAAdzcQB+AJhxAH4Aw3NxAH4AnHNxAH4An3VxAH4AogAAAAJzcQB+AKRxAH4AsnEAfgCrc3EAfgCYcQB+AMNzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkcQB+AKdzcQB+AKR0AAJpb3EAfgCrc3EAfgCYcQB+ANBxAH4BR3NxAH4AmHQABkVxdWFsc3EAfgFHc3EAfgCYcQB+ANRzcQB+AJxzcQB+AJ91cQB+AKIAAAACc3EAfgCkdAAKY2FsY3VsYXRvcnEAfgCrc3EAfgCYcQB+AJtzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkcQB+AKdzcQB+AKRxAH4AqXEAfgCrc3EAfgCYcQB+AK1xAH4BR3Bwc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6BHQAEGNhbGN1bGF0b3IuVGltZXN1cQB+AH0AAAAAcQB+AIF1cQB+AIMAAAAAc3EAfgCFAXEAfgCNcHNxAH4AhQFzcQB+AI9zcQB+AIUBdXEAfgBoAAAAAHBzcQB+AIUBdXEAfgBoAAAAAHBzcQB+AIUBdXEAfgCWAAAAB3NxAH4AmHEAfgDDc3EAfgCcc3EAfgCfdXEAfgCiAAAAAnNxAH4ApHEAfgCycQB+AKtzcQB+AJhxAH4Aw3NxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKRxAH4Ap3NxAH4ApHQAAmlvcQB+AKtzcQB+AJhxAH4A0HEAfgFyc3EAfgCYdAAGRXF1YWxzcQB+AXJzcQB+AJhxAH4A1HNxAH4AnHNxAH4An3VxAH4AogAAAAJzcQB+AKR0AApjYWxjdWxhdG9ycQB+AKtzcQB+AJhxAH4Am3NxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKRxAH4Ap3NxAH4ApHEAfgCpcQB+AKtzcQB+AJhxAH4ArXEAfgFycHBzcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoEdAARY2FsY3VsYXRvci5EaXZpZGV1cQB+AH0AAAAAcQB+AIF1cQB+AIMAAAAAc3EAfgCFAXEAfgCNcHNxAH4AhQFzcQB+AI9zcQB+AIUBdXEAfgBoAAAAAHBzcQB+AIUBdXEAfgBoAAAAAHBzcQB+AIUBdXEAfgCWAAAAB3NxAH4AmHEAfgDDc3EAfgCcc3EAfgCfdXEAfgCiAAAAAnNxAH4ApHEAfgCycQB+AKtzcQB+AJhxAH4Aw3NxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKRxAH4Ap3NxAH4ApHQAAmlvcQB+AKtzcQB+AJhxAH4A0HEAfgGdc3EAfgCYdAAGRXF1YWxzcQB+AZ1zcQB+AJhxAH4A1HNxAH4AnHNxAH4An3VxAH4AogAAAAJzcQB+AKR0AApjYWxjdWxhdG9ycQB+AKtzcQB+AJhxAH4Am3NxAH4AnHNxAH4An3VxAH4AogAAAANzcQB+AKRxAH4Ap3NxAH4ApHEAfgCpcQB+AKtzcQB+AJhxAH4ArXEAfgGdcHBzcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoAdAAVY2FsY3VsYXRvci5DYWxjdWxhdG9ydXEAfgB9AAAAAH5xAH4Af3QABk1vZHVsZXVxAH4AgwAAAABzcQB+AIUBcQB+AI1wc3EAfgCFAXNxAH4Aj3NxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cQB+AGgAAAAAcHNxAH4AhQF1cQB+AJYAAAACc3EAfgCYcQB+AJtzcQB+AJxzcQB+AJ91cQB+AKIAAAADc3EAfgCkcQB+AKdzcQB+AKRxAH4AqXEAfgCrc3EAfgCYcQB+AK1zcQB+AJxzcQB+AJ91cQB+AKIAAAACc3EAfgCkcQB+ALJxAH4Aq3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbTyZnt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCL0NvZGluZy9Db3Vyc2VyYS9zY2FsYS9jYWxjdWxhdG9yL3dlYi11aS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUR4JUDHKxnm6HcI6ZpIulqmAudKE=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBmvcoLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPHdxwp0AAZub3RpZnlzcQB+AAyPiLIadAAEd2FpdHNxAH4ADCGybFd0AA0kYXNJbnN0YW5jZU9mc3EAfgAMaa+zrHQABmVxdWFsc3NxAH4ADDF0Wz10AAxhc0luc3RhbmNlT2ZzcQB+AAz77txydAAMc3luY2hyb25pemVkc3EAfgAMom9zHHQADSRpc0luc3RhbmNlT2ZzcQB+AAzUbSSrdAAMY29tcHV0ZURlbHRhc3EAfgAMYHA20nQACW5vdGlmeUFsbHNxAH4ADGb+T9R0ABBjb21wdXRlU29sdXRpb25zc3EAfgAMNe0kdHQADGlzSW5zdGFuY2VPZnNxAH4ADMkr9lF0AAI9PXNxAH4ADHUkybt0AAVjbG9uZXNxAH4ADMEU3Al0AApQb2x5bm9taWFsc3EAfgAMf6/yF3QACHRvU3RyaW5nc3EAfgAMpFYPsHQAAiE9c3EAfgAM8uOjJnQACGdldENsYXNzc3EAfgAMwUqwf3QAAm5lc3EAfgAMyFsmJXQAAmVxc3EAfgAM7unh2nQAAiMjc3EAfgAMClux1XQACGZpbmFsaXplc3EAfgAMQk02KXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFWNhbGN1bGF0b3IuUG9seW5vbWlhbHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AWwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBic3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVxAH4APgAAAABwc3EAfgBbAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AenQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Ae3NxAH4AbnQAA0FueXNxAH4AcnNxAH4AdXVxAH4AeAAAAAJzcQB+AHp0AAVzY2FsYXEAfgCBcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZtLm6xHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvQ29kaW5nL0NvdXJzZXJhL3NjYWxhL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQjRSTJlIqWWni6y631UORDLC5MzQ==
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCcrnOcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMgm1u10AAlvYnNlcnZlcnNzcQB+AAwNwvZRdAAGbm90aWZ5c3EAfgAMJ20wkXQABHdhaXRzcQB+AAzXche6dAANJGFzSW5zdGFuY2VPZnNxAH4ADEkSKEl0AANWYXJzcQB+AAzYZGUgdAAGU2lnbmFsc3EAfgAMPZGWgHQABmVxdWFsc3NxAH4ADH9wuWp0AAxhc0luc3RhbmNlT2ZzcQB+AAySrf1cdAAMc3luY2hyb25pemVkc3EAfgAMfl2vW3QADSRpc0luc3RhbmNlT2ZzcQB+AAzXskNIdAAJbm90aWZ5QWxsc3EAfgAMiJsE43QADGlzSW5zdGFuY2VPZnNxAH4ADOPjrVR0AAhOb1NpZ25hbHNxAH4ADL0t7AN0AAY8aW5pdD5zcQB+AAx0QuKGdAAFYXBwbHlzcQB+AAwq2znudAACPT1zcQB+AAzcW5MndAAFY2xvbmVzcQB+AAyuIZRFdAAIdG9TdHJpbmdzcQB+AAygwr9edAACIT1zcQB+AAzCJgP9dAAMY29tcHV0ZVZhbHVlc3EAfgAMJxW6pXQACGdldENsYXNzc3EAfgAMolWCoHQABnVwZGF0ZXNxAH4ADMH9GTF0AAJuZXNxAH4ADKU5W790AAZteUV4cHJzcQB+AAyp3IITdAAHbXlWYWx1ZXNxAH4ADO355410AAJlcXNxAH4ADHj8BPZ0AAIjI3NxAH4ADLuXmDB0AAhmaW5hbGl6ZXNxAH4ADJp7oCh0AAZjYWxsZXJzcQB+AAwBJX6TdAAIaGFzaENvZGVzcQB+AAwWZUQkdAAIb2JzZXJ2ZWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAFc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAARY2FsY3VsYXRvci5TaWduYWx1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcmdpVdvjcpBrAgAGWwALYW5ub3RhdGlvbnNxAH4AWkwAAmlkcQB+AA1MAApsb3dlckJvdW5kdAAQTHhzYnRpL2FwaS9UeXBlO1sADnR5cGVQYXJhbWV0ZXJzcQB+AFdMAAp1cHBlckJvdW5kcQB+AGhMAAh2YXJpYW5jZXQAFEx4c2J0aS9hcGkvVmFyaWFuY2U7eHB1cQB+AGAAAAAAdAATY2FsY3VsYXRvci5TaWduYWwuVHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdOb3RoaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB8dXEAfgBlAAAAAHNxAH4AbXQAA0FueXEAfgB1fnIAEnhzYnRpLmFwaS5WYXJpYW5jZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACUludmFyaWFudH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhxAH4AhXQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ajnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4Ab3NxAH4AjQFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVxAH4AUAAAAABwc3EAfgCNAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3EAfgBtdAAGT2JqZWN0c3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NxAH4Ae3QABGphdmFzcQB+AHt0AARsYW5ncQB+AIBzcQB+AG1xAH4Ag3NxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHtxAH4AfnEAfgCAcHBzcQB+AFJxAH4AX3VxAH4AYAAAAABzcQB+AGIAdAAOY2FsY3VsYXRvci5WYXJ1cQB+AGUAAAABc3EAfgBndXEAfgBgAAAAAHQAEGNhbGN1bGF0b3IuVmFyLlRxAH4AcXVxAH4AZQAAAABxAH4AgnEAfgCGcQB+AIl1cQB+AIsAAAAAc3EAfgCNAHBzcQB+AJJxAH4AlXNxAH4AjQFzcQB+AJdzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgCeAAAAA3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AblsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4Ab3NxAH4AbXQABlNpZ25hbHNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AApjYWxjdWxhdG9ycQB+AIB1cQB+AJ4AAAABc3IAFnhzYnRpLmFwaS5QYXJhbWV0ZXJSZWY/2OM5ACxzsAIAAUwAAmlkcQB+AA14cQB+AG90ABBjYWxjdWxhdG9yLlZhci5Uc3EAfgBtcQB+AKFzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKZzcQB+AHtxAH4AqHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHBwc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQADmNhbGN1bGF0b3IuVmFydXEAfgBlAAAAAH5xAH4AiHQABk1vZHVsZXVxAH4AiwAAAABzcQB+AI0AcHNxAH4AknEAfgCVc3EAfgCNAXNxAH4Al3NxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJ4AAAACc3EAfgBtcQB+AKFzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKZzcQB+AHtxAH4AqHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHBwc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHQAE2NhbGN1bGF0b3IuTm9TaWduYWx1cQB+AGUAAAAAcQB+AOB1cQB+AIsAAAAAc3EAfgCNAHBzcQB+AJJxAH4AlXNxAH4AjQFzcQB+AJdzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgBQAAAAAHBzcQB+AI0BdXEAfgCeAAAAA3NxAH4AwnNxAH4AbXQABlNpZ25hbHNxAH4Ac3NxAH4AdnVxAH4AeQAAAAJzcQB+AHt0AApjYWxjdWxhdG9ycQB+AIB1cQB+AJ4AAAABc3EAfgBtcQB+AHJzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHNxAH4AbXEAfgChc3EAfgBzc3EAfgB2dXEAfgB5AAAAA3NxAH4Ae3EAfgCmc3EAfgB7cQB+AKhxAH4AgHNxAH4AbXEAfgCDcQB+ARJwcHNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0ABFjYWxjdWxhdG9yLlNpZ25hbHVxAH4AZQAAAABxAH4A4HVxAH4AiwAAAABzcQB+AI0AcHNxAH4AknEAfgCVc3EAfgCNAXNxAH4Al3NxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AFAAAAAAcHNxAH4AjQF1cQB+AJ4AAAACc3EAfgBtcQB+AKFzcQB+AHNzcQB+AHZ1cQB+AHkAAAADc3EAfgB7cQB+AKZzcQB+AHtxAH4AqHEAfgCAc3EAfgBtcQB+AINzcQB+AHNzcQB+AHZ1cQB+AHkAAAACc3EAfgB7cQB+AH5xAH4AgHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSZv6h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCL0NvZGluZy9Db3Vyc2VyYS9zY2FsYS9jYWxjdWxhdG9yL3dlYi11aS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU9aYpZzHmNGLnvFJrQSY0hDxzIAI=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBSyflxAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cA8DT5F0AAZub3RpZnlzcQB+AAw36CLWdAAYdHdlZXRSZW1haW5pbmdDaGFyc0NvdW50c3EAfgAM1a3kwXQABHdhaXRzcQB+AAxdgwScdAANJGFzSW5zdGFuY2VPZnNxAH4ADFkburh0AAZlcXVhbHNzcQB+AAytaFxZdAAMYXNJbnN0YW5jZU9mc3EAfgAM3f93o3QAG2NvbG9yRm9yUmVtYWluaW5nQ2hhcnNDb3VudHNxAH4ADL4frMB0AAxzeW5jaHJvbml6ZWRzcQB+AAzJlZiHdAANJGlzSW5zdGFuY2VPZnNxAH4ADLHPOyp0AA5NYXhUd2VldExlbmd0aHNxAH4ADK6d1K50AAlub3RpZnlBbGxzcQB+AAweJIi7dAAMaXNJbnN0YW5jZU9mc3EAfgAMS2PSM3QAAj09c3EAfgAMUvHWCXQABWNsb25lc3EAfgAMUPlgdXQACHRvU3RyaW5nc3EAfgAMhoLzeHQAAiE9c3EAfgAME9cqH3QAC3R3ZWV0TGVuZ3Roc3EAfgAM/6oAanQACGdldENsYXNzc3EAfgAMc3grUXQAAm5lc3EAfgAMUmNoF3QAC1R3ZWV0TGVuZ3Roc3EAfgAM+ob0c3QAAmVxc3EAfgAMojAZlHQAAiMjc3EAfgAMvYw0D3QACGZpbmFsaXplc3EAfgAMX8mu+3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFmNhbGN1bGF0b3IuVHdlZXRMZW5ndGh1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZnNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGV0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AH50AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH9zcQB+AHJ0AANBbnlzcQB+AHZzcQB+AHl1cQB+AHwAAAACc3EAfgB+dAAFc2NhbGFxAH4AhXBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAKY2FsY3VsYXRvcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSunOd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABCL0NvZGluZy9Db3Vyc2VyYS9zY2FsYS9jYWxjdWxhdG9yL3dlYi11aS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUQrbE6nyTpVY6zJ/MXCXBC9FOork=
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBf74T9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJSW6lZ0AAZub3RpZnlzcQB+AAychWa8dAASZWxlbWVudFZhbHVlU2lnbmFsc3EAfgAMYTr6+3QACXBhcnNlRXhwcnNxAH4ADMJVWLR0ABdzZXR1cDJuZE9yZGVyUG9seW5vbWlhbHNxAH4ADELWSap0AAR3YWl0c3EAfgAMWHI9jXQADSRhc0luc3RhbmNlT2ZzcQB+AAy4U5qjdAAGZXF1YWxzc3EAfgAMvkEXPHQADGFzSW5zdGFuY2VPZnNxAH4ADBCS2J10AAxzeW5jaHJvbml6ZWRzcQB+AAzHQ/r5dAANJGlzSW5zdGFuY2VPZnNxAH4ADIHV9Ft0ABJkb3VibGVWYWx1ZU9mSW5wdXRzcQB+AAzXvsB+dAAEbWFpbnNxAH4ADDMh20p0AAlub3RpZnlBbGxzcQB+AAzcJIpLdAAMaXNJbnN0YW5jZU9mc3EAfgAMCY/3fnQAEnNldHVwVHdlZXRNZWFzdXJlcnNxAH4ADOYXZ5J0ABN0ZXh0QXJlYVZhbHVlU2lnbmFsc3EAfgAMgxl1PXQADENhbGN1bGF0b3JVSXNxAH4ADHrOkEZ0AAI9PXNxAH4ADJHPxjx0AAVjbG9uZXNxAH4ADN8nd2J0AA9zZXR1cENhbGN1bGF0b3JzcQB+AAyG/ri9dAALZXhwck9mSW5wdXRzcQB+AAzkgc6wdAAIdG9TdHJpbmdzcQB+AAwOBXURdAACIT1zcQB+AAyaZGAZdAAQaW5wdXRWYWx1ZVNpZ25hbHNxAH4ADK31QRt0AAhnZXRDbGFzc3NxAH4ADB2ENkN0AAtlbGVtZW50QnlJZHNxAH4ADDdtlt10ABNDbGVhckNzc0NsYXNzUmVnRXhwc3EAfgAMUA6LCnQAAm5lc3EAfgAMsqyKXXQAAmVxc3EAfgAM2bHIpHQAFiRqcyRleHBvcnRlZCRtZXRoJG1haW5zcQB+AAyFisyXdAACIyNzcQB+AAxyiSI4dAAIZmluYWxpemVzcQB+AAwhWNWDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBZeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAXY2FsY3VsYXRvci5DYWxjdWxhdG9yVUl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgByeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBxAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBZTAAJaW5oZXJpdGVkcQB+AFlMAAdwYXJlbnRzcQB+AFl4cQB+AHpzcQB+AHEBdXEAfgBUAAAAAHBzcQB+AHEBdXEAfgBUAAAAAHBzcQB+AHEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB5dAAFSlNBcHBzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3EAfgCSdAAHc2NhbGFqc3NxAH4AknQAAmpzc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJNzcQB+AIZ0AAZPYmplY3RzcQB+AIpzcQB+AI11cQB+AJAAAAADc3EAfgCSdAAEamF2YXNxAH4AknQABGxhbmdxAH4Am3NxAH4AhnQAA0FueXNxAH4AinNxAH4AjXVxAH4AkAAAAAJzcQB+AJJxAH4AlXEAfgCbcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AApjYWxjdWxhdG9yc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZtJm/qHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEIvQ29kaW5nL0NvdXJzZXJhL3NjYWxhL2NhbGN1bGF0b3Ivd2ViLXVpL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRSgwZeqzrTLBCHmOIib9gQPgohxg==
+external apis:
+0 items
+source infos:
+6 items
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/BankAccount.scala -> 
+AAAAAAAAAAA=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Calculator.scala -> 
+AAAAAAAAAAA=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Polynomial.scala -> 
+AAAAAAAAAAA=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/Signal.scala -> 
+AAAAAAAAAAA=
+/Coding/Coursera/scala/calculator/src/main/scala/calculator/TweetLength.scala -> 
+AAAAAAAAAAA=
+/Coding/Coursera/scala/calculator/web-ui/src/main/scala/calculator/CalculatorUI.scala -> 
+AAAAAAAAAAA=
+compilations:
+17 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSZv6h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbShm3d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSmuFB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSn2cV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSqsb51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSshH51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbStd2B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSuK191cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbSunOd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbS16wB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbS3uD11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbS4Iqt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbS5usR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbTb4bh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbTkLbd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbTqLzl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWbTyZnt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQi9Db2RpbmcvQ291cnNlcmEvc2NhbGEvY2FsY3VsYXRvci93ZWItdWkvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
